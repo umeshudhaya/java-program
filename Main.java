@@ -60,11 +60,6 @@ class Pizza{
         System.out.println(bill);
     }
 
-
-    public  void line(){
-        System.out.println("_____________________________________________________");
-    }
-
 }
 class Largepizza extends Pizza{
     public Largepizza(boolean veg) {
